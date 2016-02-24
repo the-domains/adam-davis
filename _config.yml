@@ -1,7 +1,7 @@
 name: Adam Davis
 favicon: null
-layout_spectrum: 0.07290009129792452
-typography_spectrum: 0.15102394693531096
+layout_spectrum: 1
+typography_spectrum: 0.27499
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5400078652892262
+  brandStrength: 0.625
   lightness: 0.3394267400726676
   saturation: 0.3083454421721399
   rhythmicContrast: 0.2882244526408613
