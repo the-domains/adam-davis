@@ -1,0 +1,28 @@
+name: Adam Davis
+favicon: null
+layout_spectrum: 0.07290009129792452
+typography_spectrum: 0.15102394693531096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5400078652892262
+  lightness: 0.3394267400726676
+  saturation: 0.3083454421721399
+  rhythmicContrast: 0.2882244526408613
+purpose: []
